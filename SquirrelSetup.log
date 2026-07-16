@@ -1,0 +1,43 @@
+﻿6240> 2026-06-19 23:06:51> Program: Starting Squirrel Updater: --install .
+6240> 2026-06-19 23:06:51> Program: Starting install, writing to C:\ProgramData\ytsli\SquirrelTemp
+6240> 2026-06-19 23:06:51> Program: About to install to: C:\ProgramData\ytsli\Discord
+6240> 2026-06-19 23:06:51> SingleGlobalInstance: Grabbing lockfile with timeout of 00:00:10
+6240> 2026-06-19 23:06:51> CheckForUpdateImpl: Reading RELEASES file from C:\ProgramData\ytsli\SquirrelTemp
+6240> 2026-06-19 23:06:52> CheckForUpdateImpl: Remote version 1.0.9242 differs from local 
+6240> 2026-06-19 23:06:52> CheckForUpdateImpl: First run or local directory is corrupt, starting from scratch
+6240> 2026-06-19 23:06:52> ApplyReleasesImpl: Writing files to app directory: C:\ProgramData\ytsli\Discord\app-1.0.9242
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\d3dcompiler_47.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\d3dcompiler_47.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\chrome_200_percent.pak to C:\ProgramData\ytsli\Discord\app-1.0.9242\chrome_200_percent.pak
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\chrome_100_percent.pak to C:\ProgramData\ytsli\Discord\app-1.0.9242\chrome_100_percent.pak
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\app.ico to C:\ProgramData\ytsli\Discord\app-1.0.9242\app.ico
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\Discord.exe to C:\ProgramData\ytsli\Discord\app-1.0.9242\Discord.exe
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\discord_wer.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\discord_wer.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\ffmpeg.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\ffmpeg.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\icudtl.dat to C:\ProgramData\ytsli\Discord\app-1.0.9242\icudtl.dat
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\installer.db to C:\ProgramData\ytsli\Discord\app-1.0.9242\installer.db
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\libGLESv2.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\libGLESv2.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\libEGL.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\libEGL.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\resources.pak to C:\ProgramData\ytsli\Discord\app-1.0.9242\resources.pak
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\snapshot_blob.bin to C:\ProgramData\ytsli\Discord\app-1.0.9242\snapshot_blob.bin
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\v8_context_snapshot.bin to C:\ProgramData\ytsli\Discord\app-1.0.9242\v8_context_snapshot.bin
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\vk_swiftshader_icd.json to C:\ProgramData\ytsli\Discord\app-1.0.9242\vk_swiftshader_icd.json
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\vk_swiftshader.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\vk_swiftshader.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\vulkan-1.dll to C:\ProgramData\ytsli\Discord\app-1.0.9242\vulkan-1.dll
+6240> 2026-06-19 23:06:58> ApplyReleasesImpl: Moving file C:\ProgramData\ytsli\Discord\app-1.0.9242\lib\net45\updater.node to C:\ProgramData\ytsli\Discord\app-1.0.9242\updater.node
+6240> 2026-06-19 23:07:00> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\ProgramData\ytsli\Discord\app-1.0.9242\Discord.exe]
+6240> 2026-06-19 23:07:00> Utility: Process Started: C:\ProgramData\ytsli\Discord\app-1.0.9242\Discord.exe --squirrel-install 1.0.9242, pid 9588
+6240> 2026-06-19 23:07:02> Utility: Received exitcode 0 from process C:\ProgramData\ytsli\Discord\app-1.0.9242\Discord.exe
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: ran C:\ProgramData\ytsli\Discord\app-1.0.9242\Discord.exe, pid 9348
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: Starting fixPinnedExecutables
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-1.0.9242
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: fixPinnedExecutables: enumerating path C:\Users\ytsli\AppData\Roaming\Microsoft\Windows\Start Menu failed: System.UnauthorizedAccessException: Odmowa dostępu do ścieżki „C:\Users\ytsli\AppData\Roaming\Microsoft\Windows\Start Menu\Programy”.
+   w System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   w System.IO.FileSystemEnumerableIterator`1.AddSearchableDirsToStack(SearchData localSearchData)
+   w System.IO.FileSystemEnumerableIterator`1.MoveNext()
+   w System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   w System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   w System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   w Squirrel.UpdateManager.ApplyReleasesImpl.fixPinnedExecutables(SemanticVersion newCurrentVersion)
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: Fixing up tray icons
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: cleanDeadVersions: for version 1.0.9242
+6240> 2026-06-19 23:07:02> ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.0.9242
